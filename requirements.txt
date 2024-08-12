@@ -7,9 +7,8 @@ streamlit
 importlib
 datetime
 
-sklearn.linear_model
+sklearn
 os
 time
-sklearn.metrics
 
 plotly
