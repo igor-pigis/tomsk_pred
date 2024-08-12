@@ -4,7 +4,7 @@ numpy
 streamlit
 importlib
 datetime
-sklearn
+scikit-learn
 #os
 time
 #plotly
